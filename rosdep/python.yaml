@@ -7725,7 +7725,7 @@ python3-pykdl:
   nixos: [python3Packages.pykdl]
   openembedded: [python3-pykdl@meta-ros1-noetic]
   ubuntu:
-    '*': [python3-pykdl]
+    '*': null
     bionic: null
     xenial: null
 python3-pylatexenc:
